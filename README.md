@@ -19,6 +19,9 @@ This system enables more accurate and robust question-answering capabilities by 
 -  Final answer generation with refined documents
 -  Built using LangGraph, LangChain, and HuggingFace models
 
+LLM: Mistral-7B-Instruct-v0.1
+VectorDB: ChromaDB
+
 ## References
 Shi-Qi Yan, Jia-Chen Gu, Yun Zhu, Zhen-Hua Ling. (2024). Corrective Retrieval Augmented Generation. arXiv:2401.15884. https://arxiv.org/abs/2401.15884
 
